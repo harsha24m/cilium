@@ -2,7 +2,8 @@ module github.com/cilium/cilium
 
 go 1.16
 
-// direct dependencies
+// direct dependencies of cilium
+//this is first commit
 require (
 	github.com/Azure/azure-sdk-for-go v54.0.0+incompatible
 	github.com/Azure/go-autorest/autorest v0.11.17
